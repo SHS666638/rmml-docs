@@ -5,4 +5,4 @@ Developer By SHS666638
 
 Using `smx, semi` to clone
 
-[Clone](https://github.com/SHS666638/rmml-docs/clone.rst)
+tap file clone.rst to howtoclone
